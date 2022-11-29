@@ -146,7 +146,7 @@ class _SmsAppState extends State<SmsApp> {
                     _send();
                   },
                   child: Text(
-                    'SEND',
+                    'Enviar',
                     style: Theme.of(context).textTheme.displayMedium,
                   ),
                 ),
